@@ -26,7 +26,9 @@ Nhập tiếp lệnh `pm list packages` để liệt kê các phần mềm có t
 
 - Bước 7: Xác định các Bloatware: Sử dụng `[App Inspector](https://play.google.com/store/apps/details?id=com.ubqsoft.sec01)` để biết tên chính xác các Bloatware mà bạn muốn xóa.
 
-- Bước 8: Để xóa nó bạn chạy lệnh: `pm uninstall -k --user 0 <package name>`, ví dụ như muốn xóa app Maps mjnh sẽ dùng lệnh `pm uninstall -k --user 0 com.google.android.apps.maps`
+- Bước 8: Để xóa nó bạn chạy lệnh: `pm uninstall -k --user 0 <package name>`, 
+ 
+ví dụ như muốn xóa app Maps mjnh sẽ dùng lệnh `pm uninstall -k --user 0 com.google.android.apps.maps`
   
 Mở App Inspector > App List > chọn ứng dụng cần xem package. Trong giao diện thông tin chi tiết, bạn sẽ thấy package ngay bên dưới tên ứng dụng (ví dụ: com.google.android.apps.maps v.v…)
 
