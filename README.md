@@ -1,5 +1,5 @@
 ## Hướng dẫn gỡ bỏ các ứng dụng hệ thống android và bloatware không cần root bằng adb
-### [Xem video hướng dẫn]()
+### [Xem video hướng dẫn](https://youtu.be/FlM7-xMkdDU)
 ### Các bước thực hiện:
 - Bước 1: Đầu tiên bạn cần cài đặt driver usb cho Windows để nhận diện đt của bạn [(Có thể tải ở đây)](https://developer.android.com/studio/run/oem-usb.html)
 
@@ -27,7 +27,7 @@ Nếu lần đầu chạy `ADB`, Đt sẽ hỏi bạn có muốn kết nối vs 
 
 Nhập tiếp lệnh `pm list packages` để liệt kê các phần mềm có trong đt, các bloatware cứng đầu sẽ hiện ở đây.
 
-- Bước 7: Xác định các Bloatware: Sử dụng `[App Inspector](https://play.google.com/store/apps/details?id=com.ubqsoft.sec01)` để biết tên chính xác các Bloatware mà bạn muốn xóa.
+- Bước 7: Xác định các Bloatware: Sử dụng [App Inspector](https://play.google.com/store/apps/details?id=com.ubqsoft.sec01) để biết tên chính xác các Bloatware mà bạn muốn xóa.
   
 Mở App Inspector > App List > chọn ứng dụng cần xem package. Trong giao diện thông tin chi tiết, bạn sẽ thấy package ngay bên dưới tên ứng dụng (ví dụ: com.google.android.apps.maps v.v…)
 
