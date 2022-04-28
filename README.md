@@ -1,5 +1,5 @@
 ## Hướng dẫn gỡ bỏ các ứng dụng hệ thống android và bloatware không cần root bằng adb
-### [xem Video hướng dẫn]()
+### [Xem video hướng dẫn]()
 ### Các bước thực hiện:
 - Bước 1: Đầu tiên bạn cần cài đặt driver usb cho Windows để nhận diện đt của bạn [(Có thể tải ở đây)](https://developer.android.com/studio/run/oem-usb.html)
 
