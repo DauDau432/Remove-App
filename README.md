@@ -5,6 +5,8 @@
 
 Quan trọng: Tải ADB binary tùy vào OS mà bạn sử dụng, thường là Win rùi (Windows, Mac, Linux)
 
+[Tải xuống minimal_adb_fastboot_v1.4.3 dành cho win tại đây]()
+
 - Bước 2: Enable Developer Options bằng cách trên đt vào mục `Cài đặt`, nhấp vào mục `Giới thiệu điện thoại`, Tiếp tục tìm mục Build Number và nhấp vào đó 7 cái.
 
 Giờ vào `Cài đặt`, vào tip `Tùy chọn dành cho nhà phát triển`, tìm mục `Gỡ lỗi USB`, Bật nó lên.
